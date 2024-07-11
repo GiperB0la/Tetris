@@ -1,0 +1,12 @@
+﻿  ItIsGame.cpp
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(29,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(29,67): warning C4267:         with
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(29,67): warning C4267:         [
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(29,67): warning C4267:             _Ty=int
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(29,67): warning C4267:         ]
+D:\cpp\Projects\Tetris\Tetris\src\ItIsGame.cpp(34,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Main.cpp
+  Создание кода...
+  Tetris.vcxproj -> D:\cpp\Projects\Tetris\x64\Debug\Tetris.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
