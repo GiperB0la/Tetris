@@ -8,12 +8,6 @@ A simple yet polished Tetris clone built with **C++** and **SFML**.
 - 🔹 **Score counter** — earn points for every cleared row  
 - 🔹 **Clean interface** — smooth visuals powered by SFML  
 
-## 🛠️ Build & Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/tetris.git
-   cd tetris
-
 ---
 
 ### 🖼️ Screenshot
