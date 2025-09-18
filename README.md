@@ -1,17 +1,18 @@
-# 💬 GiperbolaBook
+# 🎮 Tetris
 
-**GiperbolaBook** is a lightweight online messenger written in **C++**, where both the server and client are built on **non-blocking sockets** powered by **IOCP** (I/O Completion Ports).  
-It combines a high-performance networking backend with a custom-designed graphical interface.
+A simple yet polished Tetris clone built with **C++** and **SFML**.
 
----
+## ✨ Features
+- 🔹 **Three difficulty levels** — block falling speed increases with difficulty  
+- 🔹 **Classic gameplay** — rotate, move, and drop blocks to clear lines  
+- 🔹 **Score counter** — earn points for every cleared row  
+- 🔹 **Clean interface** — smooth visuals powered by SFML  
 
-### ✨ Features
-- 🌐 **Client-Server architecture** with multi-user support.  
-- ⚡ **Non-blocking sockets + IOCP** for high performance and scalability.  
-- 💬 **Real-time messaging** with minimal latency.  
-- 🎨 **Custom SFML-based UI** with a unique design.  
-- 👥 **User list** with support for private chats.  
-- 📂 **Clean project structure** separating server and client logic.  
+## 🛠️ Build & Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/tetris.git
+   cd tetris
 
 ---
 
