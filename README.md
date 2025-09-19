@@ -35,7 +35,7 @@ cd Tetris
 mkdir build && cd build
 
 # Configure (set SFML_DIR to your SFML cmake folder)
-cmake .. -DSFML_DIR="D:/Cpp/SFML-2.6.2/lib/cmake/SFML"
+cmake .. -DSFML_DIR="../SFML-2.6.2/lib/cmake/SFML"
 
 # Build (Release version)
 cmake --build . --config Release
