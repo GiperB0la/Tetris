@@ -22,8 +22,8 @@ A simple yet polished Tetris clone built with **C++** and **SFML**.
 
 ### 🔹 Prerequisites
 - **CMake ≥ 3.16**  
-- **C++ (14>=) compiler** (MSVC, g++, clang++)  
-- **SFML 2.6.2 ([download](https://www.sfml-dev.org/download/sfml/2.6.2/))
+- **C++17 compiler** (MSVC, g++, clang++)  
+- **SFML 2.6.2** ([download](https://www.sfml-dev.org/download/sfml/2.6.2/))
 
 ---
 
