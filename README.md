@@ -38,3 +38,4 @@ cmake .. -DSFML_DIR="path/to/SFML/lib/cmake/SFML"
 
 # Build (Release version)
 cmake --build . --config Release
+```
