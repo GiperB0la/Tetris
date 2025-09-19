@@ -1,1 +1,2 @@
 C:\Users\egorc\Desktop\Tetris\bin\intermediates\Tetris.vcxproj.Up2Date
+D:\Cpp\Projects\Tetris\bin\intermediates\Tetris.vcxproj.Up2Date

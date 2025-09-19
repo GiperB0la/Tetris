@@ -1,1 +1,20 @@
-﻿  Tetris.vcxproj -> D:\Cpp\Projects\Tetris\bin\Release\Tetris.exe
+﻿  Main.cpp
+  Button.cpp
+D:\Cpp\Projects\Tetris\Tetris\src\Button.cpp(20,19): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Button.cpp(113,9): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Tetris.cpp
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(150,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(150,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(157,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(157,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(283,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(289,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(304,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Cpp\Projects\Tetris\Tetris\src\Tetris.cpp(331,64): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 398 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tetris.vcxproj -> D:\Cpp\Projects\Tetris\bin\Release\Tetris.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

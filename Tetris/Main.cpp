@@ -2,11 +2,19 @@
 #include <windows.h>
 
 
-int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
-    LPSTR lpCmdLine, int nCmdShow)
-{
-    TetrisGame game;
-    game.run();
+//int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
+//    LPSTR lpCmdLine, int nCmdShow)
+//{
+//    TetrisGame game;
+//    game.run();
+//
+//    return 0;
+//}
 
-    return 0;
+int main()
+{
+	TetrisGame game;
+	game.run();
+
+	return 0;
 }
