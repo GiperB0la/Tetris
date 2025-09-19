@@ -22,12 +22,11 @@ A simple yet polished Tetris clone built with **C++** and **SFML**.
 
 ### 🔹 Prerequisites
 - **CMake ≥ 3.16**  
-- **C++17 compiler** (MSVC, g++, clang++)  
-- **SFML 2.6.2 (download: [https://www.sfml-dev.org/download/sfml/2.6.2/)  
+- **C++ (14>=) compiler** (MSVC, g++, clang++)  
+- **SFML 2.6.2 ([download](https://www.sfml-dev.org/download/sfml/2.6.2/))
 
 ---
 
-### 🔹 Windows (MSVC / Visual Studio)
 ```powershell
 # Clone project
 git clone https://github.com/GiperB0la/Tetris.git
@@ -35,7 +34,7 @@ cd Tetris
 mkdir build && cd build
 
 # Configure (set SFML_DIR to your SFML cmake folder)
-cmake .. -DSFML_DIR="../SFML-2.6.2/lib/cmake/SFML"
+cmake .. -DSFML_DIR="path/to/SFML/lib/cmake/SFML"
 
 # Build (Release version)
 cmake --build . --config Release
